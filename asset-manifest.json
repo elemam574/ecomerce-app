@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ecomerce-app/static/css/main.c3e4631f.css",
+    "main.js": "/ecomerce-app/static/js/main.54447ac9.js",
+    "static/media/landscape.jpg": "/ecomerce-app/static/media/landscape.2e8146debc9175c81538.jpg",
+    "static/media/sunset.jpg": "/ecomerce-app/static/media/sunset.19e99dd26354f6ee7713.jpg",
+    "static/media/lake.jpg": "/ecomerce-app/static/media/lake.fbb459449d60f96367f7.jpg",
+    "index.html": "/ecomerce-app/index.html",
+    "main.c3e4631f.css.map": "/ecomerce-app/static/css/main.c3e4631f.css.map",
+    "main.54447ac9.js.map": "/ecomerce-app/static/js/main.54447ac9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3e4631f.css",
+    "static/js/main.54447ac9.js"
+  ]
+}
